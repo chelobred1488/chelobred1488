@@ -1,9 +1,3 @@
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelobred1488&theme=dark&show_icons=true&hide_border=true)
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelobred1488&theme=dark&layout=compact&hide_border=true)
-
----
-
 ## 🎯 Featured Projects
 
 ### [Sharpist](https://github.com/chelobred1488/Sharpist)
