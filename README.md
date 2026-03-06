@@ -1,16 +1,15 @@
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelobred1488&theme=dark&show_icons=true&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelobred1488&theme=dark&show_icons=true&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelobred1488&theme=dark&layout=compact&hide_border=true)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chelobred1488&theme=dark&layout=compact&hide_border=true)
 
 ---
 
 ## 🎯 Featured Projects
 
-### [Project Name](https://github.com/chelobred1488/Sharpist)
+### [Sharpist](https://github.com/chelobred1488/Sharpist)
 Brief description of your most impressive project. What problems does it solve?
 
-### [Another Project](https://github.com/chelobred1488/Polytech416)
+### [Yamix](https://github.com/chelobred1488/Yamix)
 Highlight your technical achievements and what makes this project special.
 
 ---
@@ -25,7 +24,7 @@ Highlight your technical achievements and what makes this project special.
 
 ## 🎓 Experience & Education
 
-- **Experience**: [19 years]
+- **Experience**: [9 years]
 - **Education**: [Junior Developer]
 - **Certifications**: [The Most Damn People's]
 
@@ -44,7 +43,7 @@ Highlight your technical achievements and what makes this project special.
 ## ⭐ Fun Facts
 
 - 🎮 Gaming enthusiast and tech explorer
-- 🎵 [Add something interesting about yourself]
+- 🎵 [Zivert - Beverly Hills]
 - 🌍 Always open to collaboration and new opportunities
 
 ---
@@ -53,8 +52,8 @@ Highlight your technical achievements and what makes this project special.
 
 - [ ] Release X number of meaningful projects
 - [ ] Contribute to major open-source projects
-- [ ] Build a community around [your interests]
-- [ ] Improve skills in [specific areas]
+- [ ] Build a community around [Unbroken Society]
+- [ ] Improve skills in []
 
 ---
 
