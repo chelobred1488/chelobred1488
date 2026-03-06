@@ -7,10 +7,10 @@
 
 ## 🎯 Featured Projects
 
-### [Project Name](https://github.com/chelobred1488/project-name)
+### [Project Name](https://github.com/chelobred1488/Sharpist)
 Brief description of your most impressive project. What problems does it solve?
 
-### [Another Project](https://github.com/chelobred1488/another-project)
+### [Another Project](https://github.com/chelobred1488/Polytech416)
 Highlight your technical achievements and what makes this project special.
 
 ---
@@ -25,19 +25,19 @@ Highlight your technical achievements and what makes this project special.
 
 ## 🎓 Experience & Education
 
-- **Experience**: [Share your professional background]
-- **Education**: [Your educational background]
-- **Certifications**: [Any relevant certifications]
+- **Experience**: [19 years]
+- **Education**: [Junior Developer]
+- **Certifications**: [The Most Damn People's]
 
 ---
 
 ## 📫 How to Reach Me
 
 - **GitHub**: [@chelobred1488](https://github.com/chelobred1488)
-- **Email**: [your.email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter/X**: [@YourHandle]
-- **Portfolio**: [Your Website]
+- **Email**: [James](mailto:jamesrobertson2010200@gmail.com)
+- **Telegram**: [UnbSoc](https://t.me/@chelobred)
+- **Discord**: [@TheCrowFx](https://discord.gg/ncFZ2dYg)
+- **Portfolio**: [chelobred.vlog](https://predict-devai.buzz?video=1461112114)
 
 ---
 
