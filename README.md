@@ -84,9 +84,8 @@ focus:
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chelobred1488&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelobred1488&layout=compact&theme=tokyonight&hide_border=true)
+![Followers](https://img.shields.io/github/followers/chelobred1488?style=for-the-badge&theme=dark)
+![Stars](https://img.shields.io/github/stars/chelobred1488?style=for-the-badge)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=chelobred1488&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)
 
