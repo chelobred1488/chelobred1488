@@ -84,7 +84,7 @@ focus:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelobred1488&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=chelobred1488&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelobred1488&layout=compact&theme=tokyonight&hide_border=true)
 
