@@ -1,60 +1,125 @@
-## 🎯 Featured Projects
+<div align="center">
 
-### [Sharpist](https://github.com/chelobred1488/Sharpist)
-Brief description of your most impressive project. What problems does it solve?
+```
+╔═══════════════════════════════════════════════════════════╗
+║                                                           ║
+║      ██████╗██╗  ██╗███████╗██╗      ██████╗             ║
+║     ██╔════╝██║  ██║██╔════╝██║     ██╔═══██╗            ║
+║     ██║     ███████║█████╗  ██║     ██║   ██║            ║
+║     ██║     ██╔══██║██╔══╝  ██║     ██║   ██║            ║
+║     ╚██████╗██║  ██║███████╗███████╗╚██████╔╝            ║
+║      ╚═════╝╚═╝  ╚═╝╚══════╝╚══════╝ ╚═════╝             ║
+║                                                           ║
+║              [ JAMES · @chelobred1488 ]                   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
 
-### [Yamix](https://github.com/chelobred1488/Yamix)
-Highlight your technical achievements and what makes this project special.
+### Developer · Builder · Explorer
 
----
+*9 years of writing code. Still going.*
 
-## 🌱 Currently Learning
+[![Telegram](https://img.shields.io/badge/Telegram-UnbSoc-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@chelobred)
+[![Discord](https://img.shields.io/badge/Discord-TheCrowFx-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ncFZ2dYg)
+[![Email](https://img.shields.io/badge/Email-James-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jamesrobertson2010200@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chelobred.vlog-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://predict-devai.buzz?video=1461112114)
 
-- 🔄 Exploring new technologies and frameworks
-- 📚 Deepening knowledge in system design
-- 🤝 Contributing to open-source projects
-
----
-
-## 🎓 Experience & Education
-
-- **Experience**: [9 years]
-- **Education**: [Junior Developer]
-- **Certifications**: [The Most Damn People's]
-
----
-
-## 📫 How to Reach Me
-
-- **GitHub**: [@chelobred1488](https://github.com/chelobred1488)
-- **Email**: [James](mailto:jamesrobertson2010200@gmail.com)
-- **Telegram**: [UnbSoc](https://t.me/@chelobred)
-- **Discord**: [@TheCrowFx](https://discord.gg/ncFZ2dYg)
-- **Portfolio**: [chelobred.vlog](https://predict-devai.buzz?video=1461112114)
+</div>
 
 ---
 
-## ⭐ Fun Facts
+## 🚀 Featured Projects
 
-- 🎮 Gaming enthusiast and tech explorer
-- 🎵 [Zivert - Beverly Hills]
-- 🌍 Always open to collaboration and new opportunities
+<table>
+<tr>
+<td width="50%">
+
+### ⚔️ [Sharpist](https://github.com/chelobred1488/Sharpist)
+> Precision tools for those who demand more.
+
+Built to solve real problems — sharp by design, reliable in production. Check it out and see what it can do for your workflow.
+
+</td>
+<td width="50%">
+
+### 🎵 [Yamix](https://github.com/chelobred1488/Yamix)
+> Where audio meets code.
+
+A technical achievement that blends creativity with engineering. Built with attention to detail at every layer of the stack.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Goals for 2026
+## 🧠 What I'm Working On
 
-- [ ] Release X number of meaningful projects
-- [ ] Contribute to major open-source projects
-- [ ] Build a community around [Unbroken Society]
-- [ ] Improve skills in []
+```yaml
+focus:
+  - System design & architecture patterns
+  - Exploring emerging frameworks & runtimes
+  - Building Unbroken Society — a community for devs
+
+2026_goals:
+  - Ship meaningful open-source projects
+  - Land contributions to major OSS repos
+  - Grow the UnbSoc community
+  - Go deeper on []  # always room to grow
+```
 
 ---
 
-### 💡 **Let's collaborate!**
+## 🛠️ Tech & Tools
 
-Feel free to reach out if you have exciting projects or just want to chat about tech. I'm always interested in learning from others and working on cool ideas together.
+> *The stack evolves. The fundamentals stay.*
+
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-*Last updated: March 6, 2026*
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chelobred1488&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chelobred1488&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=chelobred1488&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff)
+
+</div>
+
+---
+
+## 👤 About Me
+
+```javascript
+const james = {
+  experience: "9 years",
+  level:       "Junior → always growing",
+  community:   "Unbroken Society",
+  currentlyPlaying: "Zivert — Beverly Hills 🎵",
+  passions:    ["gaming", "open-source", "building things that matter"],
+  motto:       "Ship it. Improve it. Repeat."
+};
+```
+
+---
+
+## 🤝 Let's Build Something
+
+I'm always open to interesting projects, collaborations, and conversations about tech.
+Whether you have a wild idea or a concrete proposal — reach out.
+
+<div align="center">
+
+**[📬 Email me](mailto:jamesrobertson2010200@gmail.com) · [💬 Telegram](https://t.me/@chelobred) · [🎮 Discord](https://discord.gg/ncFZ2dYg)**
+
+---
+
+*Last updated: March 2026 · Made with ☕ and stubbornness*
+
+</div>
