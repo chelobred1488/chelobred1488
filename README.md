@@ -10,7 +10,7 @@
 ║  ╚██████╗ ██║  ██║ ███████╗ ███████╗ ╚██████╔╝ ██████╔╝ ██║  ██║ ███████╗ ██████╔╝  ║
 ║   ╚═════╝ ╚═╝  ╚═╝ ╚══════╝ ╚══════╝  ╚═════╝  ╚═════╝  ╚═╝  ╚═╝ ╚══════╝ ╚═════╝   ║
 ║                                                                                     ║
-║                          [ BAKHTOVAR · @chelobred1488 ]                             ║
+║                          [ JAMES · @chelobred1488 ]                             ║
 ║                                                                                     ║
 ╚═════════════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -96,10 +96,10 @@ focus:
 ## 👤 About Me
 
 ```javascript
-const bakhtovar = {
+const james = {
   experience: "9 years",
   level:       "Junior → always growing",
-  community:   "Unbroken Society",
+  community:   "low coasters",
   currentlyPlaying: "Zivert — Beverly Hills 🎵",
   passions:    ["gaming", "open-source", "building things that matter"],
   motto:       "Ship it. Improve it. Repeat."
@@ -115,7 +115,7 @@ Whether you have a wild idea or a concrete proposal — reach out.
 
 <div align="center">
 
-**[📬 Email me](mailto:jamesrobertson2010200@gmail.com) · [💬 Telegram](https://t.me/@chelobred) · [🎮 Discord](https://discord.gg/ncFZ2dYg)**
+**[📬 Email me](mailto:jamesrobertson2010200@gmail.com) · [💬 Telegram](https://t.me/thecrowfxx) · [🎮 Discord](https://discord.gg/ncFZ2dYg)**
 
 ---
 
